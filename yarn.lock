@@ -6659,7 +6659,7 @@ __metadata:
     globals: "npm:^16.1.0"
     gzipper: "npm:^8.2.1"
     husky: "npm:^9.1.7"
-    jasmine-core: "npm:~5.7.1"
+    jasmine-core: "npm:~5.12.1"
     karma: "npm:~6.4.4"
     karma-chrome-launcher: "npm:~3.2.0"
     karma-coverage: "npm:^2.2.1"
@@ -11340,10 +11340,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"jasmine-core@npm:~5.7.1":
-  version: 5.7.1
-  resolution: "jasmine-core@npm:5.7.1"
-  checksum: 10c0/eeb2cb030fc294f152e37dfeeb1cb137fefe6de186d470fd3fa6d1fd5279408c1226e90a488015ad079d5686aa1736ca67b2ced491d9a43720d9cb1170f1791f
+"jasmine-core@npm:~5.12.1":
+  version: 5.12.1
+  resolution: "jasmine-core@npm:5.12.1"
+  checksum: 10c0/35d83a91176e68960b4aa62d9a18bbeabed09cec42a138a70125a1952c0df6849d721d7e032101a3bd2ef17f1244fac166aaca8353cac7aa221831e005b84760
   languageName: node
   linkType: hard
 
